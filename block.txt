@@ -39,3 +39,4 @@
 .lgsmartad.com
 .service.lgtvcommon.com
 .alphonso.tv
+.jomodns.com
